@@ -24,15 +24,35 @@ Producing flat products on slow 3D printers is yet another issue. It takes longe
 We beleive that face masks that protect the bystanders, last for the duration of shopping in the supermarket, the morning commute to work, can be made efficiently using the tools present in print shops and folding box industries. Die cutters and rotary die cutter tooling in presses may process hundreds of square meters of cardboard in an hour. Print shops, large and small, are located all around the world,
 
 
+
 # What's missing?
 
 1. Reference Designs
 1. Tricks, hints for Production
 1. **A Platform** to share the Knowledge!
 
+In this current situation, we do not beleive 
+
 # Where are we at?
 
-2020-03-22 - 17:00 
-I, Thomas,  am sitting in my home office in Stuttgart, germany, trying to kick start this project, writing this page. One of my colleagues ist trying to motivate students to come up with first designs. The website's there, github might serve as a platform. I teach "watching ink dry" by profession, and i hope to be returning to teaching at [HdM](www.hdm-stuttgart.de/pmt) soon, not knowing how this is going to be.
+_2020-03-22 - 19:00_ 
 
-Lots of items on the list to check. If you want to help, [please write an email](mailto:info@diecutfacemasks.org). 
+I, Thomas,  am sitting in my home office in Stuttgart, Germany, trying to kick start this project, writing this page. One of my colleagues, Burkhard, is trying to motivate students to come up with first designs. The website's there, github might serve as a platform. Lots of items on the list to check, though. 
+
+__If you want to help, [please write an email](mailto:info@diecutfacemasks.org)__
+
+We need:
+
+- Designers to work on the Reference implementations.
+- Github ninjas to teach and help manage
+- Printers and Folding box manufacturers of course
+- Mask builders and experts to help assessing the designs
+ 
+
+
+
+P.S.
+_who we are:_
+Currently, only two: Thomas and Burkhard.
+
+We teach design (Burkhard) and printing (Thomas) and hope to be back to teaching at [HdM](https://www.hdm-stuttgart.de/) soon. No clue how this is going to be like, but we're looking forward to it.
