@@ -30,8 +30,9 @@ We beleive that face masks that protect the bystanders, last for the duration of
 1. Tricks, hints for Production
 1. **A Platform** to share the Knowledge!
 
+# Where are we at?
 
+2020-03-22 - 17:00 
+I, Thomas,  am sitting in my home office in Stuttgart, germany, trying to kick start this project, writing this page. One of my colleagues ist trying to motivate students to come up with first designs. The website's there, github might serve as a platform. I teach "watching ink dry" by profession, and i hope to be returning to teaching at [HdM](www.hdm-stuttgart.de/pmt) soon, not knowing how this is going to be.
 
-
-- cheap
-- 
+Lots of items on the list to check. If you want to help, [please write an email](mailto:info@diecutfacemasks.org). 
