@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Let's die cut face masks
 
-You can use the [editor on GitHub](https://github.com/diecutfacemasks/site/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In this exceptional situation, people aroud the world struggle to break the COVID-19 infection chains.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wearing a face mask when going out to the public is one of the key measures to lower the risk of infecting others.
 
-### Markdown
+So why don't we all just get one?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Not all face masks are made to protect others.
+- For those that are, the supply is too low.
+- They don't last long, and [after use, the need to be disposed of safely](https://www.who.int/images/default-source/health-topics/coronavirus/masks/masks-6.png).
 
-```markdown
-Syntax highlighted code block
+People around the world have started to fabricate face masks using all sorts of creative ways [3D-Printers](https://www.opensourcemask.com/en/)
+or [sewing machines](https://www.craftpassion.com/face-mask-sewing-pattern/)
 
-# Header 1
-## Header 2
-### Header 3
+# The case for this project
 
-- Bulleted
-- List
+Professional face masks are a scarce resource at the moment and should be allocated to the care professionals. 
 
-1. Numbered
-2. List
+Damp masks might lose their ability to protect, and they make breathing harder. So, if you sew some, make a lot. 
 
-**Bold** and _Italic_ and `Code` text
+Producing flat products on slow 3D printers is yet another issue. It takes longer to produce the mask than the mask should last. At least, you neet to factor in the change of filter, disinfecting the mask to get it back to usable state. Most importantly: the printer might be needed for other, mor precious parts.
 
-[Link](url) and ![Image](src)
-```
+We beleive that face masks that protect the bystanders, last for the duration of shopping in the supermarket, the morning commute to work, can be made efficiently using the tools present in print shops and folding box industries. Die cutters and rotary die cutter tooling in presses may process hundreds of square meters of cardboard in an hour. Print shops, large and small, are located all around the world,
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# What's missing?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/diecutfacemasks/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Reference Designs
+1. Tricks, hints for Production
+1. **A Platform** to share the Knowledge!
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+- cheap
+- 
